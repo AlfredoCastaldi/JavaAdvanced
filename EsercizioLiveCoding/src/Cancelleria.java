@@ -26,14 +26,12 @@ public class Cancelleria {
    public static void scrivi(int index){
        index--;
        System.out.println(cancelleria.get(index).kilometriDiScrittura());
-
    }
    public static void checkMatite(){
        for (Consumabile elemento : cancelleria){
            if (elemento instanceof Matita &&
                ((Matita) elemento).getTipo() == TipoMatita.HB && TipoMatita.HB.getDurezza() >= 5){
                System.out.println(elemento);
-
            }
        }
    }

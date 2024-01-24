@@ -6,7 +6,6 @@ public class Matita extends Consumabile implements Scrivibile{
     public Matita(TipoMatita tipo, double consumoPerKilometro, double riserva){
         super.consumoPerKilometro = consumoPerKilometro;
         super.riserva = riserva;
-
         this.tipo = tipo;
     }
     @Override
