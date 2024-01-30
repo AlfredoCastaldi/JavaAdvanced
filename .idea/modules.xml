@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Boxing and unboxing/Boxing and unboxing.iml" filepath="$PROJECT_DIR$/Boxing and unboxing/Boxing and unboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date2/Date2.iml" filepath="$PROJECT_DIR$/Date/Date2/Date2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date3/Date3.iml" filepath="$PROJECT_DIR$/Date/Date3/Date3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date4/Date4.iml" filepath="$PROJECT_DIR$/Date/Date4/Date4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date5/Date5.iml" filepath="$PROJECT_DIR$/Date/Date5/Date5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Esercizi Try and catch/Esercizi Try and catch.iml" filepath="$PROJECT_DIR$/Esercizi Try and catch/Esercizi Try and catch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Esercizi null/Esercizi null.iml" filepath="$PROJECT_DIR$/Esercizi null/Esercizi null.iml" />
       <module fileurl="file://$PROJECT_DIR$/Esercizio 3 try catch/Esercizio 3 try catch.iml" filepath="$PROJECT_DIR$/Esercizio 3 try catch/Esercizio 3 try catch.iml" />
@@ -13,11 +18,13 @@
       <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashSet2/HashSet2.iml" filepath="$PROJECT_DIR$/HashSet2/HashSet2.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashSet3/HashSet3.iml" filepath="$PROJECT_DIR$/HashSet3/HashSet3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo Java Advanced.iml" filepath="$PROJECT_DIR$/Modulo Java Advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo2Arraylist/Modulo2Arraylist.iml" filepath="$PROJECT_DIR$/Modulo2Arraylist/Modulo2Arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo2LinkedList2/Modulo2LinkedList2.iml" filepath="$PROJECT_DIR$/Modulo2LinkedList2/Modulo2LinkedList2.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/untitled2/untitled2.iml" />
     </modules>
   </component>
 </project>
