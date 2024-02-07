@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BigDecimal/BigDecimal.iml" filepath="$PROJECT_DIR$/BigDecimal/BigDecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Boxing and unboxing/Boxing and unboxing.iml" filepath="$PROJECT_DIR$/Boxing and unboxing/Boxing and unboxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
       <module fileurl="file://$PROJECT_DIR$/Date/Date2/Date2.iml" filepath="$PROJECT_DIR$/Date/Date2/Date2.iml" />
@@ -22,6 +23,8 @@
       <module fileurl="file://$PROJECT_DIR$/Modulo Java Advanced.iml" filepath="$PROJECT_DIR$/Modulo Java Advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo2Arraylist/Modulo2Arraylist.iml" filepath="$PROJECT_DIR$/Modulo2Arraylist/Modulo2Arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo2LinkedList2/Modulo2LinkedList2.iml" filepath="$PROJECT_DIR$/Modulo2LinkedList2/Modulo2LinkedList2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ternary/Ternary.iml" filepath="$PROJECT_DIR$/Ternary/Ternary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ternary2/Ternary2.iml" filepath="$PROJECT_DIR$/Ternary2/Ternary2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatGptEsercizio/chatGptEsercizio.iml" filepath="$PROJECT_DIR$/chatGptEsercizio/chatGptEsercizio.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
